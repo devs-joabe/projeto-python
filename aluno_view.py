@@ -1,8 +1,6 @@
-/*
-Essa camada é responsável por apresentar as informações de forma visual ao usuário. 
-Em seu desenvolvimento devem ser aplicados apenas recursos ligados a aparência como mensagens, 
-botões ou telas. 
-*/
+# Essa camada é responsável por apresentar as informações de forma visual ao usuário. 
+# Em seu desenvolvimento devem ser aplicados apenas recursos ligados a aparência como mensagens, 
+# botões ou telas. 
 
 
 from tkinter import *
